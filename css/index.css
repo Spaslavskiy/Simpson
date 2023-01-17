@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+.main{
+    background: url("https://oir.mobi/uploads/posts/2021-03/1616581244_30-p-odnotonnii-fon-dlya-rabochego-stola-30.jpg");
+    background-size: cover;
+}
+h1{
+    background-color: rgba(17, 255, 0, 0.2);
+    color: rgb(120, 148, 42);
+}
+h2{
+    background-color: beige;
+
+}
+h2 a{
+    text-decoration: none;
+    color: #393f35;
+}
+p{
+    background-color: rgba(232, 232, 27, 0.4);
+    color: black;
+}
+ul{
+    background-color: rgba(250, 128, 114, 0.2);
+    color: #6dfa5e;
+}
